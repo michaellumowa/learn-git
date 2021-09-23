@@ -6,3 +6,5 @@ const test2 = "4";
 const test2 = "5";
 
 const test2 = "6";
+
+const test2 = "7";
