@@ -4,3 +4,5 @@ const test2 = "3";
 
 const test2 = "4";
 const test2 = "5";
+
+const test2 = "6";
